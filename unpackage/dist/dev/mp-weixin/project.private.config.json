@@ -3,5 +3,6 @@
   "projectname": "uni-app-gaokao",
   "setting": {
     "compileHotReLoad": true
-  }
+  },
+  "libVersion": "2.26.2"
 }

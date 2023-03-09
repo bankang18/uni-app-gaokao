@@ -1,9 +1,19 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/my/my"
+    "pages/my/my",
+    "pages/login/login"
   ],
-  "subPackages": [],
+  "subPackages": [
+    {
+      "root": "my",
+      "pages": [
+        "pages/my-desc/my-desc",
+        "pages/student-info/student-info"
+      ],
+      "name": "sub-1"
+    }
+  ],
   "window": {
     "navigationBarTextStyle": "black",
     "navigationBarTitleText": "uni-app",

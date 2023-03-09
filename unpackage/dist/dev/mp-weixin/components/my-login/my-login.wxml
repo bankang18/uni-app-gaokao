@@ -1,0 +1,1 @@
+<view class="my-container data-v-2281d304"><block class="data-v-2281d304"><image class="avatar avatar-img data-v-2281d304" src="/static/icon/logo.png" mode="aspectFill"></image><view class="login-desc data-v-2281d304">登录后可同步数据</view><button data-event-opts="{{[['tap',[['getUserInfo',['$event']]]]]}}" class="login-btn data-v-2281d304" bindtap="__e">微信用户一键登录</button></block></view>
