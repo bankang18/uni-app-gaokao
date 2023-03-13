@@ -75,6 +75,44 @@
 					}
 				}
 			]
+		},
+		{
+			"root": "gaokao",
+			"name": "sub-2",
+			"pages": [
+				{
+					"path": "pages/collage/collage",
+					"style": {
+						"navigationBarTitleText": "选院校",
+						"enablePullDownRefresh": false
+					}
+				},
+				{
+					"path": "pages/collage-info/collage-info",
+					"style": {
+						"navigationBarTitleText": "学校信息",
+						"enablePullDownRefresh": false
+					}
+				}
+			    ,{
+                    "path" : "pages/subject/subject",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "查专业",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+                ,{
+                    "path" : "pages/batch/batch",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "省控线查询",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+            ]
 		}
 	],
 	"condition": {
@@ -86,8 +124,8 @@
 				"query": ""
 			},
 			{
-				"name": "修改学生信息",
-				"path": "/my/pages/student-info/student-info",
+				"name": "选院校",
+				"path": "/gaokao/pages/collage/collage",
 				"query": ""
 			}
 		]

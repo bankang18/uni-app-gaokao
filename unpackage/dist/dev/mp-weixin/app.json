@@ -12,6 +12,16 @@
         "pages/student-info/student-info"
       ],
       "name": "sub-1"
+    },
+    {
+      "root": "gaokao",
+      "pages": [
+        "pages/collage/collage",
+        "pages/collage-info/collage-info",
+        "pages/subject/subject",
+        "pages/batch/batch"
+      ],
+      "name": "sub-2"
     }
   ],
   "window": {

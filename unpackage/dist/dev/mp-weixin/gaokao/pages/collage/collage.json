@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "选院校",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-sticky": "/uni_modules/uview-ui/components/u-sticky/u-sticky",
+    "collage-item": "/components/collage-item/collage-item",
+    "u-picker": "/uni_modules/uview-ui/components/u-picker/u-picker",
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup"
+  }
+}

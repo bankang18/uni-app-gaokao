@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "查专业",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-sticky": "/uni_modules/uview-ui/components/u-sticky/u-sticky",
+    "subject-item": "/components/subject-item/subject-item",
+    "u-picker": "/uni_modules/uview-ui/components/u-picker/u-picker"
+  }
+}

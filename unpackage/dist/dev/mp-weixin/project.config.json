@@ -30,8 +30,8 @@
           "query": ""
         },
         {
-          "name": "修改学生信息",
-          "pathName": "/my/pages/student-info/student-info",
+          "name": "选院校",
+          "pathName": "/gaokao/pages/collage/collage",
           "query": ""
         }
       ]
